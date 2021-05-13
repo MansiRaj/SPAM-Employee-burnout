@@ -1,2 +1,3 @@
 # SPAM-Employee-burnout
+<img src="https://github.com/MansiRaj/Roller-Madness-Game-Development-/blob/main/screenshot1.png" width="900" height="400"><br/>
 We connected thousands of employee data through Java back-end, rendering it on our UI. We also built a dashboard replete with graphs and a progress bar, based on analytics performed using various Python libraries. Apart from the analytics, we also built a Machine-learning model (Random Forest ) to predict the employee's burnout rate, which we were able to do with greater than 90% accuracy. We connected all our modules, displaying it on a user-interface built using ReactJs.
