@@ -1,0 +1,41 @@
+.Circle{
+  background-color: rgba(248, 246, 250, 0);
+}
+.app-header {
+    background-color: #ffffff00;
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+ 
+  
+  input { 
+    border: 1px solid #666; 
+    background: #333; 
+    color: #fff !important; 
+    height: 30px;
+    width: 200px;
+    outline: none !important; 
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+
+  .txt{
+    margin-top: 40px;
+    color: blueviolet ;
+  }
+
+  .btnburn{
+    background-color: #563d7c;
+    text-align: center; line-height: 20px;
+    height: 40px;
+    width: 100px;
+    margin: 25px 25px;
+  }

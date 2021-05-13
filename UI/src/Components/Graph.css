@@ -1,0 +1,27 @@
+button {
+    background: #428BCA;
+    color: #fff;
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    line-height: 60px;
+    margin: 25px 25px;
+    text-align: center;
+    outline: none;
+  }
+  .graphbutton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .graph{
+      margin-top: 20px;
+  }
+
+.btn{
+  background-color: #563d7c;
+  text-align: center; line-height: 5px;
+}
+.btn:hover {
+  background-color: #9370DB;
+}

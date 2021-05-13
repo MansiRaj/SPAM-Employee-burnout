@@ -1,0 +1,30 @@
+    .quote{
+    line-height: 2em;
+    font-size: 1.2em;
+    color: antiquewhite;
+    font-family: monospace;
+    margin-bottom: 0px;
+    margin-inline-start: 1100px;
+}
+
+.dashboard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h1{
+    margin: 0px 0px 0px 120px;
+}
+.Navbar{
+    background-color: #563d7c;
+    margin: auto;
+    line-height: 2em;
+    font-size: 1.2em;
+    margin-bottom: 0px;
+}
+.body{
+    background-image: url('C:\Users\KIIT\Desktop\STUDIES\HRC\REACT+JAVA\SPAM\spam-app\src\Assests\bg.jpeg') ;
+    backdrop-filter: blur(5px);
+    background-size: cover;
+}
