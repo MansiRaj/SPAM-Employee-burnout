@@ -4,6 +4,8 @@ We connected thousands of employee data through Java back-end, rendering it on o
 <br>
 INSTRUCTIONS
 <br>
+Download the dataset provide named as train.csv
+<br>
 Download the backend and UI folder
 <br>
 Backend contains all the java servelets that needs to be connected to your UI
